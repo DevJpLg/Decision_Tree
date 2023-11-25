@@ -11,11 +11,14 @@
 ### Setup
 ```bash
 pip install matplotlib
-
+```
+```bash
 pip install pandas
-
+```
+```bash
 pip install scipy
-
+```
+```bash
 pip install scikit-learn
 ```
 
