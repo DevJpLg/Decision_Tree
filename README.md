@@ -9,10 +9,15 @@
   - sklearn
 
 ### Setup
-`pip install matplotlib`
-`pip install pandas`
-`pip install scipy`
-`pip install scikit-learn`
+```bash
+pip install matplotlib
+
+pip install pandas
+
+pip install scipy
+
+pip install scikit-learn
+```
 
 ```bash
 git clone https://github.com/DevJpLg/Crypto-Tracker.git
