@@ -18,9 +18,9 @@
 `pip install scikit-learn`
 
 ```bash
-git clone https://github.com/DevJpLg/Crypto-Tracker.git
+git clone https://github.com/DevJpLg/Decision_Tree.git
 
-cd Crypto-Tracker
+cd Decision_Tree
 
 python main.py
 ```
