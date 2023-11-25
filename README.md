@@ -17,7 +17,6 @@
 
 `pip install scikit-learn`
 
-
 ```bash
 git clone https://github.com/DevJpLg/Decision_Tree.git
 
